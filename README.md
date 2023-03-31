@@ -1,4 +1,3 @@
-# change in develop
+# it is again develop branch
 
-# abcdefffffef
-# merge_conflict_test
+# i am develop! please resolve conflict
